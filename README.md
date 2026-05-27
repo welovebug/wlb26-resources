@@ -2,11 +2,9 @@
 
 WLB26 resources to help you wherever you are on your journey of software testing.
 
-## Presentations
+## Sections
 
-| Title | Type | Event | Location | Date | Folder |
-|---|---|---|---|---|---|
-| Testing Roadmap for QA Engineers | Experience Sharing | TestMu | Bangkok, Thailand | May 2026 | [📂 Open](presentations/exp-sharing-y2026-sw-testing-roadmap-for-qa-testmu-bkk-may2026/) |
+
 
 ## License
 
