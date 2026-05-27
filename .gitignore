@@ -5,3 +5,13 @@
 # Internal contributor tooling (not for public clients)
 CLAUDE.md
 commit-message-convention.md
+
+# Credentials & secrets — must never be committed
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+secrets.*
+credentials.*
