@@ -7,6 +7,7 @@
 | **Location** | Bangkok, Thailand |
 | **Date** | May 20, 2026 |
 | **Presenter** | Prathan (Noom) Dansakulcharoenkit |
-| **Organization** | We Love Bug Co., Ltd. |
+| **Position** | Co-Founder and Principal Software Quality Consultant  |
+| **Organization** | [We Love Bug Co., Ltd.](https://www.welovebug.com) |
 | **File** | [WLB26-Y2026-TESTING-ROADMAP-FOR-QA-ENGINEER-TESTMU-BKK-MAY2026.pdf](WLB26-Y2026-TESTING-ROADMAP-FOR-QA-ENGINEER-TESTMU-BKK-MAY2026.pdf) |
 | **License** | [CC BY-NC-ND 4.0](../../LICENSE.md) |
