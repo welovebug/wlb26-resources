@@ -1,0 +1,7 @@
+# macOS system files
+.DS_Store
+**/.DS_Store
+
+# Internal contributor tooling (not for public clients)
+CLAUDE.md
+commit-message-convention.md
