@@ -1,13 +1,15 @@
-# We Love Bug 2026 Resource Center: Presentations
+# We Love Bug Resource Center: Presentations
 
 Downloadable presentations from both internal and external events are available to use as guidance.
 
+---
 ## Presentations
 
 | Title | Type | Event | Location | Date | Folder |
 |---|---|---|---|---|---|
 | Testing Roadmap for QA Engineers | Experience Sharing | TestMu | Bangkok, Thailand | May 2026 | [📂 Open](exp-sharing-y2026-sw-testing-roadmap-for-qa-testmu-bkk-may2026/) |
 
+---
 ## License
 
 Copyright © We Love Bug Co., Ltd.
