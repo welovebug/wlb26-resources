@@ -4,7 +4,9 @@ WLB26 resources to help you wherever you are on your journey of software testing
 
 ## Sections
 
-
+| Folder | Description |
+|---|---|
+| [📂 presentations/](presentations/) | Slide decks in PDF format from WLB26 talks, covering both internal and external events |
 
 ## License
 
