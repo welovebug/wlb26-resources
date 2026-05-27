@@ -1,4 +1,4 @@
-# We Love Bug Resource Center
+# We Love Bug | Resource Center
 
 Helping you find your own way in software testing by starting with some of ours—distilled from years of repetitive execution, heavy failures, and hard-earned lessons.
 

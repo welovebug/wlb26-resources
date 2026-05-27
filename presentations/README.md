@@ -1,4 +1,4 @@
-# We Love Bug Resource Center: Presentations
+# We Love Bug | Resource Center: Presentations
 
 Downloadable presentations from both internal and external events are available to use as guidance.
 
