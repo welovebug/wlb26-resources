@@ -2,12 +2,14 @@
 
 Helping you find your own way in software testing by starting with some of ours—distilled from years of repetitive execution, heavy failures, and hard-earned lessons.
 
-## Sections
+---
+## Blueprints
 
 | Folder | Description |
 |---|---|
 | [📂 presentations/](presentations/) | Slide decks in PDF format from WLB26 talks, covering both internal and external events |
 
+---
 ## License
 
 Copyright © We Love Bug Co., Ltd.
