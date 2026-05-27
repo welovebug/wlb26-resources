@@ -6,7 +6,7 @@ Helping you find your own way in software testing by starting with some of ours�
 ## Blueprints
 
 | Folder | Format | Description |
-|---|---|
+|---|---|---|
 | [📂 presentations](presentations/) | PDF | Slide decks from WLB talks, covering both internal and external events |
 | 📂 whitepapers | PDF| WLB whitepapers from leveraging data, facts and insights collected through our hand-ons experiences |
 | 📂 workshop materials | PDF | WLB workshop materials for the participants |
