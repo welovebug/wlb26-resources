@@ -1,6 +1,6 @@
-# We Love Bug 2026 Resource Center
+# We Love Bug Resource Center
 
-WLB26 resources to help you wherever you are on your journey of software testing.
+Helping you find your own way in software testing by starting with some of ours—distilled from years of repetitive execution, heavy failures, and hard-earned lessons.
 
 ## Sections
 
