@@ -7,6 +7,7 @@ Downloadable presentations from both internal and external events are available 
 
 | Title | Type | Event | Location | Date | Folder |
 |---|---|---|---|---|---|
+| AI-Augmented in Software Development & Testing | Experience Sharing | Internal Sharing | Bangkok, Thailand | June 4, 2026 | [📂 Open](exp-sharing-bot-ai-in-swdev-swtesting-04june2026/) |
 | Testing Roadmap for QA Engineers | Experience Sharing | TestMu | Bangkok, Thailand | May 2026 | [📂 Open](exp-sharing-y2026-sw-testing-roadmap-for-qa-testmu-bkk-may2026/) |
 
 ---
