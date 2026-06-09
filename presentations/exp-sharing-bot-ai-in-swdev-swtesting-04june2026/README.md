@@ -2,7 +2,8 @@
 
 | | |
 |---|---|
-| **Event** | Experience Sharing |
+| **Type** | Experience Sharing |
+| **Event** | Internal Sharing |
 | **Location** | Bangkok, Thailand |
 | **Date** | June 4, 2026 |
 | **Presenter** | Prathan (Noom) Dansakulcharoenkit |
